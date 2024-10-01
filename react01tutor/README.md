@@ -1,6 +1,7 @@
 # React01Tutor
 
 <hr>
+
 ## Getting Started
 
 To get started with this project, follow these steps:
